@@ -35,7 +35,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Khushal-Savalakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khushal-Savalakha&theme=github_dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khushal-Savalakha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal-Savalakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
