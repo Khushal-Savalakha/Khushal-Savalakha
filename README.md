@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 Hello! I'm **Khushal Savalakha**, a passionate tech enthusiast with a strong commitment to learning and developing innovative solutions through code.
 
-🔭 I’m currently working on the **Connectify** social media application project based on the **Django REST framework**. This project has allowed me to delve deep into the intricacies of full-stack development and explore cutting-edge technologies.
+🔭 I’m currently working on **StoreSphere**, a shopping application using the **MERN stack**, focusing on building a secure and scalable server-side architecture.
 
 🧠 I’m always eager to expand my knowledge and skills, whether it's through challenging projects, collaboration, or feedback from the tech community. Your insights are invaluable, and I’m open to new ideas that can drive growth and innovation.
 
