@@ -1,9 +1,9 @@
 # 💫 About Me:
-👨‍💻 Hello! I'm **Khushal Savalakha**, a passionate tech enthusiast with a strong commitment to learning and developing innovative solutions through code.
+👨‍💻 Hi, I’m Khushal Savalakha, specializing in backend development and designing scalable, efficient systems.
 
-🔭 I’m currently working on **StoreSphere**, a shopping application using the **MERN stack**, focusing on building a secure and scalable server-side architecture.
+🌐 Currently preparing for the Solution Architect exam, focusing on cloud technologies to create reliable, cost-effective solutions.
 
-🧠 I’m always eager to expand my knowledge and skills, whether it's through challenging projects, collaboration, or feedback from the tech community. Your insights are invaluable, and I’m open to new ideas that can drive growth and innovation.
+🔧 I work with Django, Python, and cloud services to build strong backend infrastructures. Always eager to learn through real-world projects and collaboration.
 
 🚀 Let’s connect and collaborate on projects that inspire us and push the boundaries of what's possible! 🌟
 
@@ -33,6 +33,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)  
+![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khushal-Savalakha&theme=github_dark)
