@@ -75,7 +75,8 @@
 ---
 
 ## 🏆 Certifications
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/250bbee2-039f-4f1d-846f-e4b469cef150/public_url)
+
+[![AWS Solutions Architect](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/250bbee2-039f-4f1d-846f-e4b469cef150/public_url)
 
 ---
 
